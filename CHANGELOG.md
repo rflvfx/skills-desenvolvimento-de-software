@@ -493,3 +493,4 @@
 - 2026-01-22: Refine text
 - 2026-04-14: Adjust content
 - 2026-07-13: Review content
+- 2026-12-13: Refine text
