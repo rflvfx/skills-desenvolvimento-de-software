@@ -63,3 +63,4 @@
 - 2015-11-17: Add remark
 - 2015-09-15: Expand section
 - 2015-10-22: Add note
+- 2015-01-08: Clarify section
