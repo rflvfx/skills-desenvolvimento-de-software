@@ -4,3 +4,4 @@
 - 2015-10-04: Update guide
 - 2015-01-03: Add note
 - 2015-11-15: Refine text
+- 2015-02-12: Add remark
