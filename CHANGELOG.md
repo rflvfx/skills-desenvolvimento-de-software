@@ -54,3 +54,4 @@
 - 2015-12-27: Improve docs
 - 2015-06-12: Add note
 - 2015-06-01: Adjust content
+- 2015-02-18: Minor update
