@@ -43,3 +43,4 @@
 - 2015-03-12: Expand section
 - 2015-10-18: Typo fix
 - 2015-11-09: Polish docs
+- 2015-02-21: Add detail
