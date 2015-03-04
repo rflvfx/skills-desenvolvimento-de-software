@@ -39,3 +39,4 @@
 - 2015-06-11: Adjust content
 - 2015-08-11: Update guide
 - 2015-07-09: Polish docs
+- 2015-03-04: Clarify section
