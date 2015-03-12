@@ -40,3 +40,4 @@
 - 2015-08-11: Update guide
 - 2015-07-09: Polish docs
 - 2015-03-04: Clarify section
+- 2015-03-12: Expand section
