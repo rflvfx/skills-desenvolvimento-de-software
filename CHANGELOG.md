@@ -48,3 +48,4 @@
 - 2015-03-08: Review content
 - 2015-07-05: Update notes
 - 2015-05-11: Small fix
+- 2015-05-13: Adjust content
