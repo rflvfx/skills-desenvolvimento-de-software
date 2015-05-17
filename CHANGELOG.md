@@ -71,3 +71,4 @@
 - 2015-11-13: Typo fix
 - 2015-12-13: Clarify section
 - 2015-06-02: Small fix
+- 2015-05-17: Add note
