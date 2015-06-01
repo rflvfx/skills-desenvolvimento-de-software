@@ -53,3 +53,4 @@
 - 2015-11-18: Add remark
 - 2015-12-27: Improve docs
 - 2015-06-12: Add note
+- 2015-06-01: Adjust content
