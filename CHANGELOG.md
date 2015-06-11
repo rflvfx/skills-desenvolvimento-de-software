@@ -36,3 +36,4 @@
 - 2015-07-15: Refine text
 - 2015-07-17: Minor update
 - 2015-07-28: Polish docs
+- 2015-06-11: Adjust content
