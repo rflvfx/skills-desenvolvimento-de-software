@@ -52,3 +52,4 @@
 - 2015-09-20: Minor update
 - 2015-11-18: Add remark
 - 2015-12-27: Improve docs
+- 2015-06-12: Add note
