@@ -58,3 +58,4 @@
 - 2015-05-18: Polish docs
 - 2015-06-07: Add note
 - 2015-03-13: Small fix
+- 2015-06-13: Adjust content
