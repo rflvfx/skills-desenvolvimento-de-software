@@ -34,3 +34,4 @@
 - 2026-08-28: Improve layer separation coverage
 - 2015-08-10: Clarify section
 - 2015-07-15: Refine text
+- 2015-07-17: Minor update
