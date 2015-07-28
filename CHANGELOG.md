@@ -35,3 +35,4 @@
 - 2015-08-10: Clarify section
 - 2015-07-15: Refine text
 - 2015-07-17: Minor update
+- 2015-07-28: Polish docs
