@@ -32,3 +32,4 @@
 - 2025-10-21: Improve bounded contexts coverage
 - 2026-08-28: Review dependency rules section
 - 2026-08-28: Improve layer separation coverage
+- 2015-08-10: Clarify section
