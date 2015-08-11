@@ -37,3 +37,4 @@
 - 2015-07-17: Minor update
 - 2015-07-28: Polish docs
 - 2015-06-11: Adjust content
+- 2015-08-11: Update guide
