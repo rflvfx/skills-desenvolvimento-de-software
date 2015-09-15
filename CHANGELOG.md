@@ -61,3 +61,4 @@
 - 2015-06-13: Adjust content
 - 2015-05-12: Clarify section
 - 2015-11-17: Add remark
+- 2015-09-15: Expand section
