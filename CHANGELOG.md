@@ -49,3 +49,4 @@
 - 2015-07-05: Update notes
 - 2015-05-11: Small fix
 - 2015-05-13: Adjust content
+- 2015-09-20: Minor update
