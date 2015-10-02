@@ -8,3 +8,4 @@
 - 2015-05-26: Refine text
 - 2015-01-25: Add detail
 - 2015-02-09: Small fix
+- 2015-10-02: Refine text
