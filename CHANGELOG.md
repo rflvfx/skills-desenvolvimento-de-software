@@ -66,3 +66,4 @@
 - 2015-01-08: Clarify section
 - 2015-07-05: Add remark
 - 2015-03-02: Review content
+- 2015-11-09: Polish docs
