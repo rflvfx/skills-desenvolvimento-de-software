@@ -3,3 +3,4 @@
 - 2015-07-20: Small fix
 - 2015-10-04: Update guide
 - 2015-01-03: Add note
+- 2015-11-15: Refine text
