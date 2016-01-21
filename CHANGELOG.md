@@ -85,3 +85,4 @@
 - 2016-01-28: Polish docs
 - 2016-07-07: Adjust content
 - 2016-07-02: Add detail
+- 2016-01-21: Review content
