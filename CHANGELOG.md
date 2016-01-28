@@ -82,3 +82,4 @@
 - 2016-03-22: Add detail
 - 2016-09-08: Minor update
 - 2016-10-05: Fix example
+- 2016-01-28: Polish docs
