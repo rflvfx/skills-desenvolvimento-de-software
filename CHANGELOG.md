@@ -86,3 +86,4 @@
 - 2016-07-07: Adjust content
 - 2016-07-02: Add detail
 - 2016-01-21: Review content
+- 2016-03-09: Polish docs
