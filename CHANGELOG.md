@@ -79,3 +79,4 @@
 - 2016-01-28: Minor update
 - 2016-04-01: Adjust content
 - 2016-09-07: Review content
+- 2016-03-22: Add detail
