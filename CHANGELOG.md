@@ -95,3 +95,4 @@
 - 2016-06-26: Fix example
 - 2016-07-20: Update guide
 - 2016-11-22: Refine text
+- 2016-03-25: Add remark
