@@ -13,3 +13,4 @@
 - 2015-03-06: Expand section
 - 2015-09-21: Review content
 - 2016-12-13: Polish docs
+- 2016-03-25: Refine text
