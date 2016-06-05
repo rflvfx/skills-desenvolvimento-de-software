@@ -15,3 +15,4 @@
 - 2016-12-13: Polish docs
 - 2016-03-25: Refine text
 - 2016-11-01: Polish docs
+- 2016-06-05: Add remark
