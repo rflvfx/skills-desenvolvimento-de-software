@@ -84,3 +84,4 @@
 - 2016-10-05: Fix example
 - 2016-01-28: Polish docs
 - 2016-07-07: Adjust content
+- 2016-07-02: Add detail
