@@ -23,3 +23,4 @@
 - 2016-12-05: Review content
 - 2016-06-20: Typo fix
 - 2016-08-24: Adjust content
+- 2016-07-13: Update notes
