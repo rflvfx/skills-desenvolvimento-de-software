@@ -5,3 +5,4 @@
 - 2015-11-27: Add interface design notes
 - 2016-03-20: Add immutability notes
 - 2016-07-28: Add composition patterns notes
+- 2016-08-01: Review naming conventions section
