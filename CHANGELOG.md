@@ -99,3 +99,4 @@
 - 2016-12-10: Adjust content
 - 2016-09-10: Typo fix
 - 2016-12-25: Add detail
+- 2016-08-02: Minor update
