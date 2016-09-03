@@ -88,3 +88,4 @@
 - 2016-01-21: Review content
 - 2016-03-09: Polish docs
 - 2016-02-10: Update guide
+- 2016-09-03: Typo fix
