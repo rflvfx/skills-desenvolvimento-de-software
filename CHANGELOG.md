@@ -102,3 +102,4 @@
 - 2016-08-02: Minor update
 - 2016-05-12: Update guide
 - 2016-09-11: Refine text
+- 2016-09-06: Review content
