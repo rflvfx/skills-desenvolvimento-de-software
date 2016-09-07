@@ -78,3 +78,4 @@
 - 2016-06-04: Expand section
 - 2016-01-28: Minor update
 - 2016-04-01: Adjust content
+- 2016-09-07: Review content
