@@ -97,3 +97,4 @@
 - 2016-11-22: Refine text
 - 2016-03-25: Add remark
 - 2016-12-10: Adjust content
+- 2016-09-10: Typo fix
