@@ -90,3 +90,4 @@
 - 2016-02-10: Update guide
 - 2016-09-03: Typo fix
 - 2016-11-16: Add remark
+- 2016-10-22: Add note
