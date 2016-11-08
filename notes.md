@@ -17,3 +17,4 @@
 - 2016-11-01: Polish docs
 - 2016-06-05: Add remark
 - 2016-01-04: Update guide
+- 2016-11-08: Add detail
