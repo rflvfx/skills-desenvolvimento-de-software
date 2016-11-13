@@ -113,3 +113,4 @@
 - 2016-09-12: Improve docs
 - 2016-10-18: Minor update
 - 2016-01-10: Add detail
+- 2016-11-13: Adjust content
