@@ -89,3 +89,4 @@
 - 2016-03-09: Polish docs
 - 2016-02-10: Update guide
 - 2016-09-03: Typo fix
+- 2016-11-16: Add remark
