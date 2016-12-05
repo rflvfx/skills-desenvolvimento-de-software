@@ -20,3 +20,4 @@
 - 2016-11-08: Add detail
 - 2016-05-09: Typo fix
 - 2016-12-16: Typo fix
+- 2016-12-05: Review content
