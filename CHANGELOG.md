@@ -103,3 +103,4 @@
 - 2016-05-12: Update guide
 - 2016-09-11: Refine text
 - 2016-09-06: Review content
+- 2016-12-08: Typo fix
