@@ -96,3 +96,4 @@
 - 2016-07-20: Update guide
 - 2016-11-22: Refine text
 - 2016-03-25: Add remark
+- 2016-12-10: Adjust content
