@@ -109,3 +109,4 @@
 - 2016-02-18: Clarify section
 - 2016-09-17: Add note
 - 2016-07-06: Add note
+- 2016-12-11: Minor update
