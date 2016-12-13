@@ -12,3 +12,4 @@
 - 2015-03-20: Update guide
 - 2015-03-06: Expand section
 - 2015-09-21: Review content
+- 2016-12-13: Polish docs
