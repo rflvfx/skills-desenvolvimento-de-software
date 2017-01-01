@@ -132,3 +132,4 @@
 - 2017-08-20: Expand section
 - 2017-04-17: Refine text
 - 2017-08-12: Fix example
+- 2017-01-01: Fix example
