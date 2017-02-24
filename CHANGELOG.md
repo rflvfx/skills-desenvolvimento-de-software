@@ -123,3 +123,4 @@
 - 2017-01-26: Update guide
 - 2017-04-14: Add detail
 - 2017-03-10: Update guide
+- 2017-02-24: Clarify section
