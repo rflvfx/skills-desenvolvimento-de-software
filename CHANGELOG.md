@@ -117,3 +117,4 @@
 - 2016-09-10: Improve docs
 - 2016-01-03: Fix example
 - 2017-05-02: Small fix
+- 2017-03-21: Minor update
