@@ -121,3 +121,4 @@
 - 2017-04-14: Minor update
 - 2017-12-26: Add remark
 - 2017-01-26: Update guide
+- 2017-04-14: Add detail
