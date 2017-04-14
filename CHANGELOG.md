@@ -118,3 +118,4 @@
 - 2016-01-03: Fix example
 - 2017-05-02: Small fix
 - 2017-03-21: Minor update
+- 2017-04-14: Minor update
