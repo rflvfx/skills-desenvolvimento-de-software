@@ -130,3 +130,4 @@
 - 2017-07-08: Small fix
 - 2017-06-05: Polish docs
 - 2017-08-20: Expand section
+- 2017-04-17: Refine text
