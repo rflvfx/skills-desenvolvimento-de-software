@@ -144,3 +144,4 @@
 - 2017-03-02: Update notes
 - 2017-11-18: Typo fix
 - 2017-11-03: Update notes
+- 2017-04-18: Adjust content
