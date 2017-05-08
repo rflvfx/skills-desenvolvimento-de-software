@@ -135,3 +135,4 @@
 - 2017-01-01: Fix example
 - 2017-12-01: Add note
 - 2017-07-08: Update guide
+- 2017-05-08: Add note
