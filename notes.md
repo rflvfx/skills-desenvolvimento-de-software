@@ -40,3 +40,4 @@
 - 2017-07-01: Polish docs
 - 2017-11-25: Refine text
 - 2017-11-17: Expand section
+- 2017-06-14: Update guide
