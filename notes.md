@@ -27,3 +27,4 @@
 - 2016-03-21: Clarify section
 - 2017-07-02: Small fix
 - 2017-07-28: Minor update
+- 2017-06-22: Minor update
