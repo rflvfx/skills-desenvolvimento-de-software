@@ -25,3 +25,4 @@
 - 2016-08-24: Adjust content
 - 2016-07-13: Update notes
 - 2016-03-21: Clarify section
+- 2017-07-02: Small fix
