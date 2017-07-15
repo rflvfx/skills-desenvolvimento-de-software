@@ -32,3 +32,4 @@
 - 2017-05-01: Clarify section
 - 2017-05-27: Add note
 - 2017-01-11: Update notes
+- 2017-07-15: Add note
