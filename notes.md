@@ -35,3 +35,4 @@
 - 2017-07-15: Add note
 - 2017-08-14: Fix example
 - 2017-03-09: Add remark
+- 2017-07-27: Refine text
