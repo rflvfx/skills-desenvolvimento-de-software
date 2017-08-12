@@ -131,3 +131,4 @@
 - 2017-06-05: Polish docs
 - 2017-08-20: Expand section
 - 2017-04-17: Refine text
+- 2017-08-12: Fix example
