@@ -126,3 +126,4 @@
 - 2017-02-24: Clarify section
 - 2017-03-26: Expand section
 - 2017-07-23: Add note
+- 2017-08-27: Small fix
