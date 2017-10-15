@@ -7,3 +7,4 @@
 - 2016-07-28: Add composition patterns notes
 - 2016-08-01: Review naming conventions section
 - 2017-04-25: Document coupling metrics
+- 2017-10-15: Expand abstraction levels docs
