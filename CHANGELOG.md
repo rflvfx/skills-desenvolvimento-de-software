@@ -143,3 +143,4 @@
 - 2017-11-08: Refine text
 - 2017-03-02: Update notes
 - 2017-11-18: Typo fix
+- 2017-11-03: Update notes
