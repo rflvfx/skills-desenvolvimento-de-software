@@ -140,3 +140,4 @@
 - 2017-11-28: Minor update
 - 2017-01-28: Update notes
 - 2017-12-21: Clarify section
+- 2017-11-08: Refine text
