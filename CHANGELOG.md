@@ -142,3 +142,4 @@
 - 2017-12-21: Clarify section
 - 2017-11-08: Refine text
 - 2017-03-02: Update notes
+- 2017-11-18: Typo fix
