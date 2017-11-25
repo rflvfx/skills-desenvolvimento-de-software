@@ -38,3 +38,4 @@
 - 2017-07-27: Refine text
 - 2017-03-24: Fix example
 - 2017-07-01: Polish docs
+- 2017-11-25: Refine text
