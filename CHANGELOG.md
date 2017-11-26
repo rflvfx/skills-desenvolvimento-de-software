@@ -149,3 +149,4 @@
 - 2017-10-20: Update notes
 - 2017-02-07: Refine text
 - 2017-10-02: Add note
+- 2017-11-26: Add note
