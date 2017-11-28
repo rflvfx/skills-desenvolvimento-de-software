@@ -137,3 +137,4 @@
 - 2017-07-08: Update guide
 - 2017-05-08: Add note
 - 2017-11-06: Add detail
+- 2017-11-28: Minor update
