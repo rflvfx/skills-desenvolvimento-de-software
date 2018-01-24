@@ -173,3 +173,4 @@
 - 2018-04-23: Add detail
 - 2018-02-20: Add note
 - 2018-02-21: Add remark
+- 2018-01-24: Add remark
