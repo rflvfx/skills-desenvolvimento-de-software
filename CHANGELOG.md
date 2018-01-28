@@ -9,3 +9,4 @@
 - 2017-04-25: Document coupling metrics
 - 2017-10-15: Expand abstraction levels docs
 - 2017-11-20: Document seam finding
+- 2018-01-28: Document code smells
