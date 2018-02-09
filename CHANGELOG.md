@@ -190,3 +190,4 @@
 - 2018-04-11: Refine text
 - 2018-06-18: Clarify section
 - 2018-09-20: Add detail
+- 2018-02-09: Add note
