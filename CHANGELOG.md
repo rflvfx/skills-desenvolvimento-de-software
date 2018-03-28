@@ -11,3 +11,4 @@
 - 2017-11-20: Document seam finding
 - 2018-01-28: Document code smells
 - 2018-03-19: Improve documentation habits coverage
+- 2018-03-28: Expand decision records docs
