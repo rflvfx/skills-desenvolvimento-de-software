@@ -178,3 +178,4 @@
 - 2018-05-26: Adjust content
 - 2018-05-10: Add detail
 - 2018-01-06: Add detail
+- 2018-04-11: Update guide
