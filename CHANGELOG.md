@@ -170,3 +170,4 @@
 - 2018-12-13: Refine text
 - 2018-07-08: Adjust content
 - 2018-01-28: Add detail
+- 2018-04-23: Add detail
