@@ -156,3 +156,4 @@
 - 2018-07-11: Polish docs
 - 2018-08-17: Review content
 - 2018-11-10: Adjust content
+- 2018-04-28: Add note
