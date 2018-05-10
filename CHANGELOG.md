@@ -176,3 +176,4 @@
 - 2018-01-24: Add remark
 - 2018-05-25: Polish docs
 - 2018-05-26: Adjust content
+- 2018-05-10: Add detail
