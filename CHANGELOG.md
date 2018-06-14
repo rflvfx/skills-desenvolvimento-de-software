@@ -184,3 +184,4 @@
 - 2018-02-04: Add detail
 - 2018-05-27: Add remark
 - 2018-04-01: Review content
+- 2018-06-14: Refine text
