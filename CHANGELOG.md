@@ -164,3 +164,4 @@
 - 2018-03-11: Polish docs
 - 2018-06-19: Small fix
 - 2018-08-28: Typo fix
+- 2018-07-03: Expand section
