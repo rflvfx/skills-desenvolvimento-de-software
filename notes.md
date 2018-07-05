@@ -45,3 +45,4 @@
 - 2018-11-21: Improve docs
 - 2018-11-01: Add remark
 - 2018-12-19: Refine text
+- 2018-07-05: Polish docs
