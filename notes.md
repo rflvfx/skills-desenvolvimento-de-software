@@ -56,3 +56,4 @@
 - 2018-02-14: Polish docs
 - 2018-11-19: Refine text
 - 2018-12-26: Fix example
+- 2018-08-18: Small fix
