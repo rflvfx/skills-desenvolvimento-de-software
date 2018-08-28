@@ -163,3 +163,4 @@
 - 2018-01-13: Refine text
 - 2018-03-11: Polish docs
 - 2018-06-19: Small fix
+- 2018-08-28: Typo fix
