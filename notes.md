@@ -47,3 +47,4 @@
 - 2018-12-19: Refine text
 - 2018-07-05: Polish docs
 - 2018-07-21: Improve docs
+- 2018-09-04: Update guide
