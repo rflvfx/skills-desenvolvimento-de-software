@@ -157,3 +157,4 @@
 - 2018-08-17: Review content
 - 2018-11-10: Adjust content
 - 2018-04-28: Add note
+- 2018-09-14: Clarify section
