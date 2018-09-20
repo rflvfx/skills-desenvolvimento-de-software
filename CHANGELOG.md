@@ -189,3 +189,4 @@
 - 2018-11-03: Improve docs
 - 2018-04-11: Refine text
 - 2018-06-18: Clarify section
+- 2018-09-20: Add detail
