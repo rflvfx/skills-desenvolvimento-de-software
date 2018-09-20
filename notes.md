@@ -50,3 +50,4 @@
 - 2018-09-04: Update guide
 - 2018-05-03: Small fix
 - 2018-06-25: Improve docs
+- 2018-09-20: Improve docs
