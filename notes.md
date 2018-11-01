@@ -43,3 +43,4 @@
 - 2017-06-14: Update guide
 - 2018-08-05: Update notes
 - 2018-11-21: Improve docs
+- 2018-11-01: Add remark
