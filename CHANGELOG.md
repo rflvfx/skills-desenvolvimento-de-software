@@ -155,3 +155,4 @@
 - 2018-12-07: Add remark
 - 2018-07-11: Polish docs
 - 2018-08-17: Review content
+- 2018-11-10: Adjust content
