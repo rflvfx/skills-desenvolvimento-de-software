@@ -179,3 +179,4 @@
 - 2018-05-10: Add detail
 - 2018-01-06: Add detail
 - 2018-04-11: Update guide
+- 2018-11-13: Minor update
