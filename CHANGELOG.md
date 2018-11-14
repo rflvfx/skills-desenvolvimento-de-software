@@ -191,3 +191,4 @@
 - 2018-06-18: Clarify section
 - 2018-09-20: Add detail
 - 2018-02-09: Add note
+- 2018-11-14: Add remark
