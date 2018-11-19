@@ -54,3 +54,4 @@
 - 2018-01-09: Polish docs
 - 2018-12-10: Add remark
 - 2018-02-14: Polish docs
+- 2018-11-19: Refine text
