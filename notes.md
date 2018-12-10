@@ -52,3 +52,4 @@
 - 2018-06-25: Improve docs
 - 2018-09-20: Improve docs
 - 2018-01-09: Polish docs
+- 2018-12-10: Add remark
