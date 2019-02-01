@@ -233,3 +233,4 @@
 - 2019-02-08: Typo fix
 - 2019-04-01: Add note
 - 2019-10-26: Expand section
+- 2019-02-01: Typo fix
