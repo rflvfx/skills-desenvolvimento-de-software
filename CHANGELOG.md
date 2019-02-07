@@ -198,3 +198,4 @@
 - 2019-11-17: Update guide
 - 2019-12-17: Minor update
 - 2019-03-04: Expand section
+- 2019-02-07: Update notes
