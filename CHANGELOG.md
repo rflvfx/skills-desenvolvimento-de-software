@@ -13,3 +13,4 @@
 - 2018-03-19: Improve documentation habits coverage
 - 2018-03-28: Expand decision records docs
 - 2019-01-17: Expand bounded contexts docs
+- 2019-04-02: Review dependency rules section
