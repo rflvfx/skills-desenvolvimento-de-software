@@ -210,3 +210,4 @@
 - 2019-03-26: Update guide
 - 2019-02-07: Fix example
 - 2019-02-24: Small fix
+- 2019-04-06: Expand section
