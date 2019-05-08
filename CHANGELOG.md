@@ -200,3 +200,4 @@
 - 2019-03-04: Expand section
 - 2019-02-07: Update notes
 - 2019-08-08: Clarify section
+- 2019-05-08: Minor update
