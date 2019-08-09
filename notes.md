@@ -60,3 +60,4 @@
 - 2019-03-26: Fix example
 - 2019-04-03: Polish docs
 - 2019-12-07: Typo fix
+- 2019-08-09: Add remark
