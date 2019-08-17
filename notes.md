@@ -62,3 +62,4 @@
 - 2019-12-07: Typo fix
 - 2019-08-09: Add remark
 - 2019-10-14: Expand section
+- 2019-08-17: Minor update
