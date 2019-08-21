@@ -214,3 +214,4 @@
 - 2019-08-22: Add note
 - 2019-10-18: Typo fix
 - 2019-05-14: Update notes
+- 2019-08-21: Typo fix
