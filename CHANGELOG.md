@@ -212,3 +212,4 @@
 - 2019-02-24: Small fix
 - 2019-04-06: Expand section
 - 2019-08-22: Add note
+- 2019-10-18: Typo fix
