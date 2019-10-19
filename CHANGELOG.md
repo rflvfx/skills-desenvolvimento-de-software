@@ -222,3 +222,4 @@
 - 2019-07-09: Add detail
 - 2019-08-06: Add note
 - 2019-02-05: Typo fix
+- 2019-10-19: Clarify section
