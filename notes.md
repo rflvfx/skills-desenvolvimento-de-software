@@ -66,3 +66,4 @@
 - 2019-06-28: Update guide
 - 2019-08-13: Add detail
 - 2019-06-08: Improve docs
+- 2019-10-24: Review content
