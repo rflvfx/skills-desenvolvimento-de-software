@@ -232,3 +232,4 @@
 - 2019-02-13: Review content
 - 2019-02-08: Typo fix
 - 2019-04-01: Add note
+- 2019-10-26: Expand section
