@@ -195,3 +195,4 @@
 - 2019-10-19: Polish docs
 - 2019-05-02: Minor update
 - 2019-07-10: Adjust content
+- 2019-11-17: Update guide
