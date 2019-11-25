@@ -205,3 +205,4 @@
 - 2019-05-18: Expand section
 - 2019-06-04: Review content
 - 2019-06-16: Review content
+- 2019-11-25: Refine text
