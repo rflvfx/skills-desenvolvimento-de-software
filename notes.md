@@ -59,3 +59,4 @@
 - 2018-08-18: Small fix
 - 2019-03-26: Fix example
 - 2019-04-03: Polish docs
+- 2019-12-07: Typo fix
