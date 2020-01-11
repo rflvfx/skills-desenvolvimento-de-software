@@ -78,3 +78,4 @@
 - 2020-12-18: Minor update
 - 2020-12-08: Refine text
 - 2020-12-18: Clarify section
+- 2020-01-11: Refine text
