@@ -270,3 +270,4 @@
 - 2020-09-24: Update notes
 - 2020-07-06: Add detail
 - 2020-09-27: Update guide
+- 2020-01-26: Expand section
