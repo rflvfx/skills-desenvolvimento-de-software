@@ -250,3 +250,4 @@
 - 2020-08-06: Update notes
 - 2020-05-19: Expand section
 - 2020-04-23: Add remark
+- 2020-02-24: Small fix
