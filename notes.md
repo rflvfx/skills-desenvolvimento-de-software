@@ -80,3 +80,4 @@
 - 2020-12-18: Clarify section
 - 2020-01-11: Refine text
 - 2020-09-27: Update guide
+- 2020-03-03: Fix example
