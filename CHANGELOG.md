@@ -259,3 +259,4 @@
 - 2020-04-27: Add note
 - 2020-04-04: Expand section
 - 2020-07-05: Update guide
+- 2020-04-19: Add detail
