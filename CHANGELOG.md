@@ -258,3 +258,4 @@
 - 2020-10-13: Review content
 - 2020-04-27: Add note
 - 2020-04-04: Expand section
+- 2020-07-05: Update guide
