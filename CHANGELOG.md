@@ -268,3 +268,4 @@
 - 2020-12-05: Improve docs
 - 2020-03-10: Review content
 - 2020-09-24: Update notes
+- 2020-07-06: Add detail
