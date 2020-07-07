@@ -243,3 +243,4 @@
 - 2020-10-26: Clarify section
 - 2020-07-08: Add note
 - 2020-08-04: Minor update
+- 2020-07-07: Refine text
