@@ -261,3 +261,4 @@
 - 2020-07-05: Update guide
 - 2020-04-19: Add detail
 - 2020-06-18: Polish docs
+- 2020-07-14: Refine text
