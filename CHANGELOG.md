@@ -15,3 +15,4 @@
 - 2019-01-17: Expand bounded contexts docs
 - 2019-04-02: Review dependency rules section
 - 2019-12-10: Update interface design reference
+- 2020-08-28: Review immutability section
