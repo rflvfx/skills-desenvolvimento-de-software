@@ -72,3 +72,4 @@
 - 2019-07-28: Expand section
 - 2019-01-28: Fix example
 - 2020-02-28: Add detail
+- 2020-09-17: Add note
