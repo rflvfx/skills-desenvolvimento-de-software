@@ -5,3 +5,4 @@
 - 2024-07-10 — Review material
 - 2024-09-10 — Improve documentation
 - 2015-03-07 - Update study notes
+- 2020-10-09 - Expand section
