@@ -17,3 +17,4 @@
 - 2019-12-10: Update interface design reference
 - 2020-08-28: Review immutability section
 - 2020-09-20: Add composition patterns examples
+- 2020-10-15: Refine naming conventions guide
