@@ -245,3 +245,4 @@
 - 2020-08-04: Minor update
 - 2020-07-07: Refine text
 - 2020-09-27: Clarify section
+- 2020-11-27: Minor update
