@@ -236,3 +236,4 @@
 - 2019-02-01: Typo fix
 - 2020-11-10: Minor update
 - 2020-07-21: Clarify section
+- 2020-11-28: Review content
