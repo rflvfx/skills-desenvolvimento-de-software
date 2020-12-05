@@ -265,3 +265,4 @@
 - 2020-04-05: Update notes
 - 2020-03-15: Expand section
 - 2020-12-20: Polish docs
+- 2020-12-05: Improve docs
