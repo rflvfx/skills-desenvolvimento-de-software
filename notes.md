@@ -76,3 +76,4 @@
 - 2020-08-07: Minor update
 - 2020-03-28: Polish docs
 - 2020-12-18: Minor update
+- 2020-12-08: Refine text
