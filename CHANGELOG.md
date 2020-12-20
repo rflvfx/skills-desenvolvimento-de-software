@@ -264,3 +264,4 @@
 - 2020-07-14: Refine text
 - 2020-04-05: Update notes
 - 2020-03-15: Expand section
+- 2020-12-20: Polish docs
