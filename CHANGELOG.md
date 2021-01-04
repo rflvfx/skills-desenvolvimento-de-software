@@ -297,3 +297,4 @@
 - 2021-07-02: Typo fix
 - 2021-06-02: Minor update
 - 2021-08-01: Typo fix
+- 2021-01-04: Clarify section
