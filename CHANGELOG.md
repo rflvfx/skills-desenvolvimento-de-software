@@ -299,3 +299,4 @@
 - 2021-08-01: Typo fix
 - 2021-01-04: Clarify section
 - 2021-05-08: Update guide
+- 2021-01-17: Expand section
