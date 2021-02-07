@@ -301,3 +301,4 @@
 - 2021-05-08: Update guide
 - 2021-01-17: Expand section
 - 2021-03-22: Fix example
+- 2021-02-07: Add detail
