@@ -291,3 +291,4 @@
 - 2021-04-09: Add detail
 - 2021-07-16: Improve docs
 - 2021-03-26: Clarify section
+- 2021-02-13: Fix example
