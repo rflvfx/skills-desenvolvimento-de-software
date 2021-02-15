@@ -315,3 +315,4 @@
 - 2021-05-13: Review content
 - 2021-05-11: Add note
 - 2021-04-23: Expand section
+- 2021-02-15: Refine text
