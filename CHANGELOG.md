@@ -309,3 +309,4 @@
 - 2021-06-17: Clarify section
 - 2021-06-21: Expand section
 - 2021-02-04: Improve docs
+- 2021-02-22: Improve docs
