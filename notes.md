@@ -82,3 +82,4 @@
 - 2020-09-27: Update guide
 - 2020-03-03: Fix example
 - 2020-02-09: Improve docs
+- 2021-04-27: Add detail
