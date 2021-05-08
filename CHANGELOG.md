@@ -298,3 +298,4 @@
 - 2021-06-02: Minor update
 - 2021-08-01: Typo fix
 - 2021-01-04: Clarify section
+- 2021-05-08: Update guide
