@@ -295,3 +295,4 @@
 - 2021-07-15: Typo fix
 - 2021-04-20: Small fix
 - 2021-07-02: Typo fix
+- 2021-06-02: Minor update
