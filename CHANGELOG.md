@@ -306,3 +306,4 @@
 - 2021-07-16: Review content
 - 2021-10-14: Typo fix
 - 2021-01-24: Minor update
+- 2021-06-17: Clarify section
