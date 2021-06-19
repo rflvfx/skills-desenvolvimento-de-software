@@ -286,3 +286,4 @@
 - 2021-08-26: Add note
 - 2021-04-11: Expand section
 - 2021-04-15: Improve docs
+- 2021-06-19: Minor update
