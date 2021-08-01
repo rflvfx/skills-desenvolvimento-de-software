@@ -279,3 +279,4 @@
 - 2020-07-12: Clarify section
 - 2021-07-09: Adjust content
 - 2021-03-28: Expand section
+- 2021-08-01: Update guide
