@@ -88,3 +88,4 @@
 - 2021-08-12: Minor update
 - 2021-08-20: Add remark
 - 2021-04-15: Typo fix
+- 2021-08-26: Adjust content
