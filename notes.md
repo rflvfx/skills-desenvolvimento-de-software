@@ -95,3 +95,4 @@
 - 2021-04-20: Review content
 - 2021-07-13: Fix example
 - 2021-04-05: Refine text
+- 2021-09-17: Improve docs
