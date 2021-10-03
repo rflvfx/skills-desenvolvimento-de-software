@@ -282,3 +282,4 @@
 - 2021-08-01: Update guide
 - 2021-06-28: Improve docs
 - 2021-05-15: Add remark
+- 2021-10-03: Polish docs
