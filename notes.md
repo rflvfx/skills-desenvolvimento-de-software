@@ -84,3 +84,4 @@
 - 2020-02-09: Improve docs
 - 2021-04-27: Add detail
 - 2021-08-13: Add remark
+- 2021-11-07: Fix example
