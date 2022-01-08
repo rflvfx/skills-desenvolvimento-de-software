@@ -101,3 +101,4 @@
 - 2021-05-06: Review content
 - 2021-12-10: Minor update
 - 2022-11-23: Review content
+- 2022-01-08: Add detail
