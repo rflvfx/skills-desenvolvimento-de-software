@@ -342,3 +342,4 @@
 - 2022-03-04: Refine text
 - 2022-03-27: Add note
 - 2022-10-02: Improve docs
+- 2022-01-13: Update notes
