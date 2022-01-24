@@ -318,3 +318,4 @@
 - 2021-02-15: Refine text
 - 2022-07-21: Typo fix
 - 2022-04-09: Expand section
+- 2022-01-24: Add detail
