@@ -19,3 +19,4 @@
 - 2020-09-20: Add composition patterns examples
 - 2020-10-15: Refine naming conventions guide
 - 2021-11-02: Update seam finding reference
+- 2022-02-03: Update code smells reference
