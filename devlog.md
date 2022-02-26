@@ -6,3 +6,4 @@
 - 2024-09-10 — Improve documentation
 - 2015-03-07 - Update study notes
 - 2020-10-09 - Expand section
+- 2022-02-26 - Expand section
