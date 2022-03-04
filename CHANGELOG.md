@@ -339,3 +339,4 @@
 - 2022-06-09: Typo fix
 - 2022-10-11: Update guide
 - 2022-08-13: Add detail
+- 2022-03-04: Refine text
