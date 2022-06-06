@@ -346,3 +346,4 @@
 - 2022-10-20: Add remark
 - 2022-11-14: Small fix
 - 2022-07-15: Refine text
+- 2022-06-06: Fix example
