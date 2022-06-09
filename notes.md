@@ -105,3 +105,4 @@
 - 2022-01-23: Add note
 - 2022-06-13: Expand section
 - 2022-09-25: Add note
+- 2022-06-09: Improve docs
