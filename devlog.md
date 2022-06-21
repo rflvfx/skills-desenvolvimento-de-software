@@ -1,3 +1,4 @@
 - 2017-01-27 — Refine exercises
 - 2017-09-16 — Update notes
 - 2020-06-22 — Update notes
+- 2022-06-21 — Refine exercises
