@@ -121,3 +121,4 @@
 - 2022-06-28: Typo fix
 - 2022-11-23: Add detail
 - 2022-03-16: Polish docs
+- 2022-06-24: Clarify section
