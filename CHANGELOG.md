@@ -345,3 +345,4 @@
 - 2022-01-13: Update notes
 - 2022-10-20: Add remark
 - 2022-11-14: Small fix
+- 2022-07-15: Refine text
