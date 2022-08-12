@@ -110,3 +110,4 @@
 - 2022-06-20: Typo fix
 - 2022-11-19: Adjust content
 - 2022-10-11: Update guide
+- 2022-08-12: Adjust content
