@@ -115,3 +115,4 @@
 - 2022-04-13: Clarify section
 - 2022-09-22: Fix example
 - 2022-12-06: Refine text
+- 2022-09-14: Adjust content
