@@ -337,3 +337,4 @@
 - 2022-12-13: Add remark
 - 2022-07-08: Review content
 - 2022-06-09: Typo fix
+- 2022-10-11: Update guide
