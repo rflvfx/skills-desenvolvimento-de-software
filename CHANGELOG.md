@@ -328,3 +328,4 @@
 - 2022-04-09: Polish docs
 - 2022-09-04: Add remark
 - 2022-07-25: Typo fix
+- 2022-10-19: Refine text
