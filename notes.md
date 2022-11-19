@@ -108,3 +108,4 @@
 - 2022-06-09: Improve docs
 - 2022-08-20: Minor update
 - 2022-06-20: Typo fix
+- 2022-11-19: Adjust content
