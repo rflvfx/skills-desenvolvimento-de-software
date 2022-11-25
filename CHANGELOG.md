@@ -333,3 +333,4 @@
 - 2022-12-15: Fix example
 - 2022-04-05: Typo fix
 - 2022-12-13: Polish docs
+- 2022-11-25: Refine text
