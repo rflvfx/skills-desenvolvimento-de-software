@@ -114,3 +114,4 @@
 - 2022-07-17: Add note
 - 2022-04-13: Clarify section
 - 2022-09-22: Fix example
+- 2022-12-06: Refine text
