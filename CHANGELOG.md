@@ -366,3 +366,4 @@
 - 2023-05-07: Small fix
 - 2023-10-27: Add detail
 - 2023-08-18: Clarify section
+- 2023-01-11: Adjust content
