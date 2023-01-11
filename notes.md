@@ -122,3 +122,4 @@
 - 2022-11-23: Add detail
 - 2022-03-16: Polish docs
 - 2022-06-24: Clarify section
+- 2023-01-11: Polish docs
