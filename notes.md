@@ -131,3 +131,4 @@
 - 2023-06-23: Typo fix
 - 2023-09-26: Add remark
 - 2023-09-24: Expand section
+- 2023-01-15: Minor update
