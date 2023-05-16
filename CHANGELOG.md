@@ -362,3 +362,4 @@
 - 2023-02-26: Improve docs
 - 2023-09-20: Improve docs
 - 2023-09-28: Typo fix
+- 2023-05-16: Update notes
