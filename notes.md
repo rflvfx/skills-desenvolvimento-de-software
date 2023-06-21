@@ -125,3 +125,4 @@
 - 2023-01-11: Polish docs
 - 2023-02-13: Clarify section
 - 2023-01-02: Update guide
+- 2023-06-21: Clarify section
