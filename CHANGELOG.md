@@ -356,3 +356,4 @@
 - 2023-02-11: Polish docs
 - 2023-07-05: Adjust content
 - 2023-11-14: Add detail
+- 2023-09-03: Update notes
