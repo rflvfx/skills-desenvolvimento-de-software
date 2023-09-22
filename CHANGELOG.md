@@ -377,3 +377,4 @@
 - 2023-03-20: Fix example
 - 2023-02-11: Add remark
 - 2023-12-11: Add detail
+- 2023-09-22: Clarify section
