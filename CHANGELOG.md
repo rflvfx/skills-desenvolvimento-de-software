@@ -373,3 +373,4 @@
 - 2023-11-27: Expand section
 - 2023-10-11: Improve docs
 - 2023-05-18: Small fix
+- 2023-10-21: Update guide
