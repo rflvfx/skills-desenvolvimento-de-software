@@ -378,3 +378,4 @@
 - 2023-02-11: Add remark
 - 2023-12-11: Add detail
 - 2023-09-22: Clarify section
+- 2023-11-04: Minor update
