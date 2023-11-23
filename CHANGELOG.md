@@ -348,3 +348,4 @@
 - 2022-07-15: Refine text
 - 2022-06-06: Fix example
 - 2022-02-09: Improve docs
+- 2023-11-23: Add note
