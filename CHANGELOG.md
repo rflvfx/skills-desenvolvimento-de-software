@@ -370,3 +370,4 @@
 - 2023-11-22: Add remark
 - 2023-08-23: Add detail
 - 2023-11-02: Clarify section
+- 2023-11-27: Expand section
