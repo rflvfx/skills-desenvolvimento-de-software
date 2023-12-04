@@ -22,3 +22,4 @@
 - 2022-02-03: Update code smells reference
 - 2022-09-04: Add decision records notes
 - 2023-11-28: Document dependency rules
+- 2023-12-04: Review layer separation section
