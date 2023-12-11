@@ -376,3 +376,4 @@
 - 2023-10-21: Update guide
 - 2023-03-20: Fix example
 - 2023-02-11: Add remark
+- 2023-12-11: Add detail
