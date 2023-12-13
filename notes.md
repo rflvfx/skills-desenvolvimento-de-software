@@ -126,3 +126,4 @@
 - 2023-02-13: Clarify section
 - 2023-01-02: Update guide
 - 2023-06-21: Clarify section
+- 2023-12-13: Fix example
