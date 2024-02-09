@@ -400,3 +400,4 @@
 - 2024-05-21: Small fix
 - 2024-02-21: Typo fix
 - 2024-07-20: Update notes
+- 2024-02-09: Clarify section
