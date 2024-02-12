@@ -392,3 +392,4 @@
 - 2023-05-13: Improve docs
 - 2024-02-06: Add note
 - 2024-06-28: Update guide
+- 2024-02-12: Add detail
