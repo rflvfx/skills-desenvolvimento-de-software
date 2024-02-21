@@ -398,3 +398,4 @@
 - 2024-12-11: Add detail
 - 2024-09-25: Update notes
 - 2024-05-21: Small fix
+- 2024-02-21: Typo fix
