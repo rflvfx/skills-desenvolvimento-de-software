@@ -401,3 +401,4 @@
 - 2024-02-21: Typo fix
 - 2024-07-20: Update notes
 - 2024-02-09: Clarify section
+- 2024-04-07: Fix example
