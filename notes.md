@@ -144,3 +144,4 @@
 - 2024-12-19: Improve docs
 - 2024-10-10: Refine text
 - 2024-07-15: Update guide
+- 2024-06-12: Fix example
