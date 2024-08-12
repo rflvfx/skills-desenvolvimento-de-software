@@ -147,3 +147,4 @@
 - 2024-06-12: Fix example
 - 2024-12-20: Clarify section
 - 2024-11-18: Clarify section
+- 2024-08-12: Clarify section
