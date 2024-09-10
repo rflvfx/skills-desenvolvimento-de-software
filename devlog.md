@@ -3,3 +3,4 @@
 - 2020-06-22 — Update notes
 - 2022-06-21 — Refine exercises
 - 2024-07-10 — Review material
+- 2024-09-10 — Improve documentation
