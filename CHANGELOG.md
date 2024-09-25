@@ -396,3 +396,4 @@
 - 2024-04-05: Refine text
 - 2024-11-11: Add remark
 - 2024-12-11: Add detail
+- 2024-09-25: Update notes
