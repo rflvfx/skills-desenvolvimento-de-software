@@ -414,3 +414,4 @@
 - 2024-10-21: Add remark
 - 2024-06-06: Update guide
 - 2024-06-12: Add remark
+- 2024-10-07: Refine text
