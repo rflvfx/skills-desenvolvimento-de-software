@@ -137,3 +137,4 @@
 - 2024-07-03: Improve docs
 - 2024-11-27: Refine text
 - 2024-07-03: Update guide
+- 2024-10-09: Expand section
