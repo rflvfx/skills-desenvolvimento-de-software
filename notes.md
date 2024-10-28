@@ -140,3 +140,4 @@
 - 2024-10-09: Expand section
 - 2024-09-05: Add remark
 - 2024-08-11: Improve docs
+- 2024-10-28: Update notes
