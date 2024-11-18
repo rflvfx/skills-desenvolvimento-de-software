@@ -146,3 +146,4 @@
 - 2024-07-15: Update guide
 - 2024-06-12: Fix example
 - 2024-12-20: Clarify section
+- 2024-11-18: Clarify section
