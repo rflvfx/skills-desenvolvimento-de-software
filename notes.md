@@ -135,3 +135,4 @@
 - 2023-09-23: Add remark
 - 2023-03-21: Update notes
 - 2024-07-03: Improve docs
+- 2024-11-27: Refine text
