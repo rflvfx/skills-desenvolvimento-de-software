@@ -416,3 +416,4 @@
 - 2024-06-12: Add remark
 - 2024-10-07: Refine text
 - 2024-09-28: Improve docs
+- 2024-12-25: Refine text
