@@ -432,3 +432,4 @@
 - 2025-10-14: Update guide
 - 2025-01-28: Fix example
 - 2025-12-10: Add note
+- 2025-01-02: Adjust content
