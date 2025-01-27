@@ -438,3 +438,4 @@
 - 2025-09-01: Small fix
 - 2025-01-10: Typo fix
 - 2025-11-05: Minor update
+- 2025-01-27: Update guide
