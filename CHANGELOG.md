@@ -24,3 +24,4 @@
 - 2023-11-28: Document dependency rules
 - 2023-12-04: Review layer separation section
 - 2024-10-21: Refine function size guide
+- 2025-02-14: Add coupling metrics notes
