@@ -458,3 +458,4 @@
 - 2025-12-26: Adjust content
 - 2025-08-23: Add note
 - 2025-12-08: Minor update
+- 2025-04-23: Clarify section
