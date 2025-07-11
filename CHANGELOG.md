@@ -464,3 +464,4 @@
 - 2025-08-13: Review content
 - 2025-09-19: Adjust content
 - 2025-05-20: Add detail
+- 2025-07-11: Expand section
