@@ -471,3 +471,4 @@
 - 2025-05-12: Review content
 - 2025-09-10: Fix example
 - 2025-05-13: Refine text
+- 2025-07-20: Clarify section
