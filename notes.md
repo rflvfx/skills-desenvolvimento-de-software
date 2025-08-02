@@ -151,3 +151,4 @@
 - 2024-10-13: Clarify section
 - 2025-12-11: Clarify section
 - 2025-06-03: Review content
+- 2025-08-02: Refine text
