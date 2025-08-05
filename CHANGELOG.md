@@ -441,3 +441,4 @@
 - 2025-01-27: Update guide
 - 2025-04-26: Improve docs
 - 2025-05-20: Review content
+- 2025-08-05: Update notes
