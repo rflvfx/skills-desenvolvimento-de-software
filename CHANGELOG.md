@@ -435,3 +435,4 @@
 - 2025-01-02: Adjust content
 - 2025-04-06: Update guide
 - 2025-09-25: Review content
+- 2025-09-01: Small fix
