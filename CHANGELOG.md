@@ -447,3 +447,4 @@
 - 2025-06-20: Fix example
 - 2025-09-06: Minor update
 - 2025-10-27: Clarify section
+- 2025-09-16: Fix example
