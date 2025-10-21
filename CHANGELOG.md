@@ -29,3 +29,4 @@
 - 2026-06-04: Improve documentation habits coverage
 - 2026-06-04: Document decision records
 - 2026-07-22: Refine domain modeling guide
+- 2025-10-21: Improve bounded contexts coverage
