@@ -460,3 +460,4 @@
 - 2025-12-08: Minor update
 - 2025-04-23: Clarify section
 - 2025-05-22: Adjust content
+- 2025-10-25: Expand section
