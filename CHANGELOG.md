@@ -446,3 +446,4 @@
 - 2025-03-20: Review content
 - 2025-06-20: Fix example
 - 2025-09-06: Minor update
+- 2025-10-27: Clarify section
