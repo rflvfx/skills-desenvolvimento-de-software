@@ -451,3 +451,4 @@
 - 2025-04-04: Polish docs
 - 2025-07-03: Add remark
 - 2025-06-12: Add note
+- 2025-11-10: Add detail
