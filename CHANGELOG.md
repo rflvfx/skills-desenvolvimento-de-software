@@ -431,3 +431,4 @@
 - 2024-05-12: Refine text
 - 2025-10-14: Update guide
 - 2025-01-28: Fix example
+- 2025-12-10: Add note
