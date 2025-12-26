@@ -455,3 +455,4 @@
 - 2025-05-20: Minor update
 - 2025-06-12: Review content
 - 2025-03-07: Refine text
+- 2025-12-26: Adjust content
