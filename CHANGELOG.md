@@ -508,3 +508,4 @@
 - 2026-01-01: Typo fix
 - 2026-03-13: Add remark
 - 2026-11-12: Update notes
+- 2026-01-19: Refine text
