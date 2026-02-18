@@ -480,3 +480,4 @@
 - 2026-04-06: Add detail
 - 2026-04-05: Typo fix
 - 2026-07-13: Small fix
+- 2026-02-18: Clarify section
