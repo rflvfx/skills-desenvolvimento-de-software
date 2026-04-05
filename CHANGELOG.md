@@ -478,3 +478,4 @@
 - 2026-08-26: Fix example
 - 2026-09-15: Polish docs
 - 2026-04-06: Add detail
+- 2026-04-05: Typo fix
