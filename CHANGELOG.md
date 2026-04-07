@@ -501,3 +501,4 @@
 - 2026-08-18: Adjust content
 - 2026-07-23: Update guide
 - 2026-08-28: Minor update
+- 2026-04-07: Typo fix
