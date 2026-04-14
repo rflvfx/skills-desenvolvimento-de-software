@@ -491,3 +491,4 @@
 - 2026-02-14: Clarify section
 - 2026-08-22: Improve docs
 - 2026-01-22: Refine text
+- 2026-04-14: Adjust content
