@@ -167,3 +167,4 @@
 - 2026-03-04: Polish docs
 - 2026-12-07: Add detail
 - 2026-11-17: Small fix
+- 2026-05-03: Expand section
