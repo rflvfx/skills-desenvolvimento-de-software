@@ -27,3 +27,4 @@
 - 2025-02-14: Add coupling metrics notes
 - 2026-06-02: Improve code smells coverage
 - 2026-06-04: Improve documentation habits coverage
+- 2026-06-04: Document decision records
