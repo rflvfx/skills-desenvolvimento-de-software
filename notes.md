@@ -168,3 +168,4 @@
 - 2026-12-07: Add detail
 - 2026-11-17: Small fix
 - 2026-05-03: Expand section
+- 2026-07-01: Review content
