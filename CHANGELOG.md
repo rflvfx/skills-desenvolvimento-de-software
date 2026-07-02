@@ -483,3 +483,4 @@
 - 2026-02-18: Clarify section
 - 2026-09-03: Review content
 - 2026-12-16: Refine text
+- 2026-07-02: Refine text
