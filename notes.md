@@ -173,3 +173,4 @@
 - 2026-03-19: Minor update
 - 2026-10-18: Add detail
 - 2026-10-07: Update guide
+- 2026-07-06: Update notes
