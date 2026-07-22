@@ -28,3 +28,4 @@
 - 2026-06-02: Improve code smells coverage
 - 2026-06-04: Improve documentation habits coverage
 - 2026-06-04: Document decision records
+- 2026-07-22: Refine domain modeling guide
