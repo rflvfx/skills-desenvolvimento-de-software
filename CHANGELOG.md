@@ -473,3 +473,4 @@
 - 2025-05-13: Refine text
 - 2025-07-20: Clarify section
 - 2025-08-10: Review content
+- 2026-07-26: Expand section
