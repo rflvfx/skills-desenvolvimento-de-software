@@ -495,3 +495,4 @@
 - 2026-07-13: Review content
 - 2026-12-13: Refine text
 - 2026-07-21: Minor update
+- 2026-08-04: Polish docs
