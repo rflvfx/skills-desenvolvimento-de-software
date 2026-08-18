@@ -498,3 +498,4 @@
 - 2026-08-04: Polish docs
 - 2026-03-08: Improve docs
 - 2026-06-20: Improve docs
+- 2026-08-18: Adjust content
