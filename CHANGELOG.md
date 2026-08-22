@@ -489,3 +489,4 @@
 - 2026-10-10: Add remark
 - 2026-05-07: Adjust content
 - 2026-02-14: Clarify section
+- 2026-08-22: Improve docs
