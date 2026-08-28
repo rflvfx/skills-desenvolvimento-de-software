@@ -500,3 +500,4 @@
 - 2026-06-20: Improve docs
 - 2026-08-18: Adjust content
 - 2026-07-23: Update guide
+- 2026-08-28: Minor update
