@@ -31,3 +31,4 @@
 - 2026-07-22: Refine domain modeling guide
 - 2025-10-21: Improve bounded contexts coverage
 - 2026-08-28: Review dependency rules section
+- 2026-08-28: Improve layer separation coverage
