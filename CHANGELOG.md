@@ -476,3 +476,4 @@
 - 2026-07-26: Expand section
 - 2026-09-17: Small fix
 - 2026-08-26: Fix example
+- 2026-09-15: Polish docs
