@@ -1,20 +1,18 @@
 # skills-desenvolvimento-de-software
 
-Habilidade: **Desenvolvimento de Software**
+Guia de ciclo de vida e boas praticas de desenvolvimento.
 
-## Anos de experiencia
+## Topicos
 
-_Atualize este campo com o tempo de experiencia real._
+1. Levantamento de requisitos
+2. Design e arquitetura
+3. Implementacao
+4. Testes
+5. Deploy
+6. Manutencao
 
-## Sobre
+## Ferramentas
 
-Repositorio de referencia para a habilidade **Desenvolvimento de Software**.
-Inclui um exemplo minimo e anotacoes para consulta rapida.
-
-## Exemplo
-
-Veja o arquivo `exemplo` na raiz do repositorio.
-
-## Links uteis
-
-- [Documentacao oficial](https://www.google.com/search?q=Desenvolvimento de Software+documentacao)
+- Git para versionamento
+- Docker para ambientes
+- CI/CD para deploy
