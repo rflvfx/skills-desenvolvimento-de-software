@@ -1,18 +1,24 @@
+<div align="center">
+
 # skills-desenvolvimento-de-software
 
-Guia de ciclo de vida e boas praticas de desenvolvimento.
+**Engenharia de software** — SOLID, design patterns, refactoring e code review.
 
-## Topicos
+</div>
 
-1. Levantamento de requisitos
-2. Design e arquitetura
-3. Implementacao
-4. Testes
-5. Deploy
-6. Manutencao
+## 📋 Sobre
 
-## Ferramentas
+Fundamentos de engenharia: princípios de design, padrões de projeto, práticas de refatoração, testes e revisão de código.
 
-- Git para versionamento
-- Docker para ambientes
-- CI/CD para deploy
+## 📂 Conteúdo
+
+- `solid.md` — princípios SOLID
+- `design-patterns.md` — padrões essenciais
+- `refactoring.md` — técnicas de refatoração
+- `testing-pyramid.md` — estratégia de testes
+- `code-review.md` — guia de review
+- `docs/` — notas por tema
+
+## 🧠 Tópicos cobertos
+
+`SOLID` `patterns` `refactoring` `testing` `code review` `clean code` `coupling` `cohesion`
