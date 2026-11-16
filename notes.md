@@ -163,3 +163,4 @@
 - 2025-11-12: Expand section
 - 2025-11-19: Update notes
 - 2026-03-14: Small fix
+- 2026-11-16: Add detail
